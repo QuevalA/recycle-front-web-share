@@ -65,4 +65,5 @@ Avant de commencer l'installation et l'utilisation de ce projet, assurez-vous qu
 ## Installation
 1. Cloner le projet en local.
 2. Installez les dépendances : `npm install`
-3. Ouvrez http://localhost:3000 pour voir l'application dans votre navigateur. La page se rechargera automatiquement si vous apportez des modifications au code source.
+3. Installez les dépendances : `npm start`
+4. Ouvrez http://localhost:3000 pour voir l'application dans votre navigateur. La page se rechargera automatiquement si vous apportez des modifications au code source.
